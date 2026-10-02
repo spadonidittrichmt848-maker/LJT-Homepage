@@ -10,6 +10,4 @@ citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). &quot;On the U
 
 First author: **Junteng Liu**.
 
-Co-authors: Shiqi Chen, Yu Cheng, Junxian He.
-
-Published at EMNLP 2024. Code is available in a GitHub repository: Universal_Truthfulness_Hyperplane.
+Published at EMNLP 2024. Code is available on a GitHub repository (Universal_Truthfulness_Hyperplane).

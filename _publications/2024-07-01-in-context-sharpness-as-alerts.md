@@ -10,6 +10,4 @@ citation: 'Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang 
 
 Co-author: **Junteng Liu**.
 
-Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
-
 Published at ICML 2024.

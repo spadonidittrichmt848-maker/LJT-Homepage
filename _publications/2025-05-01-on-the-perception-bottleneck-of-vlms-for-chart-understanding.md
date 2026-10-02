@@ -10,6 +10,4 @@ citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxia
 
 First author: **Junteng Liu**.
 
-Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
-
-Published on arXiv. Code is available in a GitHub repository: Vision4Chart.
+Published on arXiv (2025). Code is available on a GitHub repository (Vision4Chart).
