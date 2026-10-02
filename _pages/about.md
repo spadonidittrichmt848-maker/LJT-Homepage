@@ -13,7 +13,7 @@ I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng.
 
 My research focuses on natural language processing and machine learning. I currently work on LLM reasoning and reinforcement learning, hallucination in vision-language models (VLM), and the truthfulness and interpretability of large language models.
 
-A full list of my paper can be found on the [Publications page]({{ site.baseurl }}/publications/).
+A full list of my papers can be found on the [Publications page]({{ site.baseurl }}/publications/).
 
 Research Interests
 ======
