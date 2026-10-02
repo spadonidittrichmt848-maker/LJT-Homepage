@@ -8,6 +8,6 @@ venue: 'arXiv preprint'
 citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). &quot;On the Perception Bottleneck of VLMs for Chart Understanding.&quot; <i>arXiv preprint</i>.'
 ---
 
-First author: **Junteng Liu**.
+**Junteng Liu** (first author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
 
 Published on arXiv (2025). Code is available on a GitHub repository (Vision4Chart).
