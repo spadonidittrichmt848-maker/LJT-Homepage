@@ -1,0 +1,10 @@
+{% assign newest_publications = site.publications | sort: "year" | reverse %}
+{% assign name_to_emphasize = "Junteng Liu" %}
+{% for publication in newest_publications %}{% capture author_list %}{% for name in publication.authors %}{% if name == name_to_emphasize %}<strong>{{ name }}</strong>{% else %}{{ name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endcapture %}
+<div class="list__item">
+  <article class="archive__item">
+    <h3 class="archive__item-title">{{ publication.title }}</h3>
+    <p>{{ author_list }}. {{ publication.year }}. <em>{{ publication.venue }}</em>.{% if publication.code %} GitHub code repository: {{ publication.code }}.{% endif %}</p>
+  </article>
+</div>
+{% endfor %}
