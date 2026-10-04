@@ -5,7 +5,7 @@ title: "About"
 author_profile: true
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/hkust-nlp), supervised by Professor Junxian He. I previously received advice from Professor Junxian He during my undergraduate studies at Shanghai Jiao Tong University (SJTU). My research focuses on natural language processing and machine learning.
+I am a first-year PhD candidate at HKUST NLP Group, supervised by Professor Junxian He, who also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU). My research focuses on natural language processing and machine learning.
 
 ## Education
 
